@@ -2,6 +2,10 @@
 
 This is a simple react app which can fetch data from youtube api, and enable users to have a 'youtube-like' experience when they search for videos. 
 
+- [Preview](https://myyoutubesearchapp.netlify.app/)
+
+![Screenshot](youtube.png?raw=true "Youtube Search App")
+
 ## Technologies 
 
 The following technologies were used in this project:
