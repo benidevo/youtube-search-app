@@ -10,7 +10,7 @@ This is a simple react app which can fetch data from youtube api, and enable use
 
 The following technologies were used in this project:
 
-- [React](https://www.python.org/)
+- [React](https://reactjs.org/)
 - [Semantic UI](https://react.semantic-ui.com/)
 
 ## Requirements
